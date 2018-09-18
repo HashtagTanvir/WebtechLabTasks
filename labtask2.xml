@@ -1,0 +1,33 @@
+<person>
+	<person1>
+		<SL.NO.>
+			23
+		</SL.NO.>
+		<Name>
+			john Carter
+		</Name>
+		<ADMISSION_DATE>
+			25/12/2015
+		</ADMISSION_DATE>
+	</person1>
+	    <SL.NO.>
+	    	29
+		</SL.NO.>
+		<Name>
+			Bob Marshal
+		</Name>
+		<ADMISSION_DATE>
+			13/01/1999
+		</ADMISSION_DATE>
+	<person2>
+		<SL.NO.>
+			35
+		</SL.NO.>
+		<Name>
+			Messi
+		</Name>
+		<ADMISSION_DATE>
+			17/06/2006
+		</ADMISSION_DATE>
+	</person2>
+</person>
