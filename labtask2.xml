@@ -19,7 +19,7 @@
 		<ADMISSION_DATE>
 			13/01/1999
 		</ADMISSION_DATE>
-	<person2>
+	<person1>
 		<SL.NO.>
 			35
 		</SL.NO.>
@@ -29,5 +29,5 @@
 		<ADMISSION_DATE>
 			17/06/2006
 		</ADMISSION_DATE>
-	</person2>
+	</person1>
 </person>
