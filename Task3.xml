@@ -1,4 +1,4 @@
-<Information>
+<PersonInformation>
 	<person1 id="1">
 		<name>John Doe</name>
 		<Address>H# 38, R#3, Banani, Dhaka</Address>
@@ -17,4 +17,4 @@
 		<Department>Human Resource</Department>
 		<salary>$30000</salary>
 	</person3>
-</Information>
+</PersonInformation>
